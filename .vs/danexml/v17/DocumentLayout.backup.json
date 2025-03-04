@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\source\\repos\\danexml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\source\\repos\\danexml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\source\\repos\\danexml\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pracownik.cs",
+              "DocumentMoniker": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\Pracownik.cs",
+              "RelativeDocumentMoniker": "Pracownik.cs",
+              "ToolTip": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\Pracownik.cs",
+              "RelativeToolTip": "Pracownik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:49:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:48:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T10:48:07.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

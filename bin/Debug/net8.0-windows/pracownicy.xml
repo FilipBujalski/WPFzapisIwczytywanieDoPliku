@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownik>
+    <Id>1</Id>
+    <Imie>Jan</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Zarobki>12234</Zarobki>
+    <Data_zatrudnienia>2025-03-04T00:00:00</Data_zatrudnienia>
+    <Data_zwolnienia>1971-07-23T00:00:00</Data_zwolnienia>
+  </Pracownik>
+  <Pracownik>
+    <Id>2</Id>
+    <Imie>Piotr</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Zarobki>9876</Zarobki>
+    <Data_zatrudnienia>2025-03-04T00:00:00</Data_zatrudnienia>
+    <Data_zwolnienia>1971-07-23T00:00:00</Data_zwolnienia>
+  </Pracownik>
+  <Pracownik>
+    <Id>3</Id>
+    <Imie>Ewa</Imie>
+    <Nazwisko>Iksińska</Nazwisko>
+    <Zarobki>6543</Zarobki>
+    <Data_zatrudnienia>2025-03-04T00:00:00</Data_zatrudnienia>
+    <Data_zwolnienia>1971-07-23T00:00:00</Data_zwolnienia>
+  </Pracownik>
+  <Pracownik>
+    <Id>4</Id>
+    <Imie>Paweł</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Zarobki>321321</Zarobki>
+    <Data_zatrudnienia>0001-01-01T00:00:00</Data_zatrudnienia>
+    <Data_zwolnienia>0001-01-01T00:00:00</Data_zwolnienia>
+  </Pracownik>
+</ArrayOfPracownik>

@@ -62,5 +62,24 @@ namespace danexml
                 MessageBox.Show("Nie udało się wczytać danych z pliku.");
             }
         }
+        private void Dodaj_Click(object sender, RoutedEventArgs e)
+        {
+            DodajPracownika dodajOkno = new DodajPracownika();
+            if (dodajOkno.ShowDialog() == true)
+            {
+                Pracownik nowyPracownik = dodajOkno.NowyPracownik;
+
+                if (nowyPracownik != null)
+                {
+                    List<Pracownik> pracownicy = (List<Pracownik>)PracownicyLista.ItemsSource;
+                    int nowyId = pracownicy.Max(p => p.Id) + 1;
+                    nowyPracownik.Id = nowyId;
+
+                    pracownicy.Add(nowyPracownik);
+                    PracownicyLista.Items.Refresh();
+                }
+            }
+        }
+
     }
 }

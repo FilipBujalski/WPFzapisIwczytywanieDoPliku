@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\danexml.csproj",
+      "projectUniqueName": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
       "projectName": "danexml",
-      "projectPath": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\danexml.csproj",
+      "projectPath": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
       "packagesPath": "C:\\Users\\swieczorkowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swieczorkowski\\source\\repos\\danexml\\obj\\",
+      "outputPath": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

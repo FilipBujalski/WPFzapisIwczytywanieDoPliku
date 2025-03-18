@@ -92,7 +92,7 @@ namespace danexml {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/danexml;component/dodajpracownika.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/danexml;V1.0.0.0;component/dodajpracownika.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DodajPracownika.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

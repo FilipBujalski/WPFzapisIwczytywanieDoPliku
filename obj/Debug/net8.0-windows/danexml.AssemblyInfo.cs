@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("danexml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d25136332597d25af9cc577343f574b5bcd200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890f110d7e8f76d25173dd540dd513bad2f3cb9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("danexml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("danexml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

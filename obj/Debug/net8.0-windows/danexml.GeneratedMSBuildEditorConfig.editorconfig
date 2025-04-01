@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = danexml
-build_property.ProjectDir = C:\Users\swieczorkowski\Documents\GitHub\WPFzapisIwczytywanieDoPliku\
+build_property.ProjectDir = C:\Users\fbujalski\Documents\GitHub\WPFzapisIwczytywanieDoPliku\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

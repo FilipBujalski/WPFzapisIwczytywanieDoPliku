@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj": {}
+    "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj": {
+    "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
+        "projectUniqueName": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
         "projectName": "danexml",
-        "projectPath": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
-        "packagesPath": "C:\\Users\\swieczorkowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\obj\\",
+        "projectPath": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\danexml.csproj",
+        "packagesPath": "C:\\Users\\fbujalski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\swieczorkowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fbujalski\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

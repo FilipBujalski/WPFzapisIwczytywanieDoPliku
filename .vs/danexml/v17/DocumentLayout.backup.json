@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\",
+  "WorkspaceRootPath": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\documents\\github\\wpfzapisiwczytywaniedopliku\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\documents\\github\\wpfzapisiwczytywaniedopliku\\dodajpracownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:dodajpracownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\documents\\github\\wpfzapisiwczytywaniedopliku\\dodajpracownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:dodajpracownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\documents\\github\\wpfzapisiwczytywaniedopliku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\fbujalski\\documents\\github\\wpfzapisiwczytywaniedopliku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\swieczorkowski\\documents\\github\\wpfzapisiwczytywaniedopliku\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\fbujalski\\documents\\github\\wpfzapisiwczytywaniedopliku\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\fbujalski\\documents\\github\\wpfzapisiwczytywaniedopliku\\dodajpracownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:dodajpracownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\fbujalski\\documents\\github\\wpfzapisiwczytywaniedopliku\\dodajpracownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:dodajpracownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|c:\\users\\fbujalski\\documents\\github\\wpfzapisiwczytywaniedopliku\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A79DC80E-A455-446B-BE41-4C2ED9CFCA3D}|danexml.csproj|solutionrelative:pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,26 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DodajPracownika.xaml",
-              "DocumentMoniker": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml",
+              "DocumentMoniker": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml",
               "RelativeDocumentMoniker": "DodajPracownika.xaml",
-              "ToolTip": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml",
+              "ToolTip": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml",
               "RelativeToolTip": "DodajPracownika.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-18T11:09:42.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DodajPracownika.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml.cs",
               "RelativeDocumentMoniker": "DodajPracownika.xaml.cs",
-              "ToolTip": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml.cs",
+              "ToolTip": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\DodajPracownika.xaml.cs",
               "RelativeToolTip": "DodajPracownika.xaml.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,9 +67,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Pracownik.cs",
-              "DocumentMoniker": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\Pracownik.cs",
+              "DocumentMoniker": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\Pracownik.cs",
               "RelativeDocumentMoniker": "Pracownik.cs",
-              "ToolTip": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\Pracownik.cs",
+              "ToolTip": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\Pracownik.cs",
               "RelativeToolTip": "Pracownik.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,27 +77,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T10:48:05.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\swieczorkowski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fbujalski\\Documents\\GitHub\\WPFzapisIwczytywanieDoPliku\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T10:48:07.673Z"
+              "WhenOpened": "2025-03-04T10:48:07.673Z",
+              "EditorCaption": ""
             }
           ]
         }

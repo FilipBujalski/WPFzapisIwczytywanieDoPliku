@@ -55,6 +55,7 @@ namespace danexml
             List<Pracownik> pracownicy = WczytajDaneZPliku();
             if (pracownicy != null)
             {
+                PracownicyLista.ItemsSource = null;
                 PracownicyLista.ItemsSource = pracownicy;
             }
             else
@@ -62,6 +63,7 @@ namespace danexml
                 MessageBox.Show("Nie udało się wczytać danych z pliku.");
             }
         }
+
         private void Dodaj_Click(object sender, RoutedEventArgs e)
         {
             DodajPracownika dodajOkno = new DodajPracownika();
